@@ -1,0 +1,52 @@
+
+
+.container > .lisbon , .sanfrancisco{
+    width: 36%;
+}
+
+.lisbon{
+    background-color: #72bbff;
+}
+
+.paris{
+    background-color: #50ebff;
+    width: 10%;
+}
+
+.belgrade{
+    background-color: #b014bd;
+    width: 11%;
+}
+
+.moscow{
+    background-color: #e23131;
+}
+
+.telaviv{
+    background-color: #e2762d;
+}
+
+.cair{
+    background-color: #e2c43b;
+}
+
+.newyork{
+   background-color: #34c885;
+}
+
+.newdehli{
+    background-color: #6c8c7a;
+}
+
+.sanfrancisco{
+    background-color: #bd69a5;
+}
+
+.tokyo{
+    background-color: #207c1e;
+    width: 12%;
+}
+
+.sydney{
+    background-color: #690083;
+}

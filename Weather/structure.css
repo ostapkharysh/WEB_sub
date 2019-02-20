@@ -1,0 +1,39 @@
+
+.container{
+
+    border: 5px solid #ffffff;
+    border-left: 5px #ffffff;
+    border-right: 10px solid #ffffff;
+    display: flex;
+    justify-content: flex-end;
+    width: 75%;
+}
+
+
+.container > div {
+    flex-grow: 1;
+    padding: 2%;
+    text-align: center;
+    font-size: 1em;
+    color: #ffffff;
+    border-left: 10px solid #ffffff;
+
+}
+
+
+html, body {
+    background-color: #38639f;
+    margin-left: 10%;
+}
+
+h2, p, i{
+    color: #ffffff;
+    font-style: normal;
+}
+
+p{
+    font-weight: bold;
+    font-size: 17px;
+}
+
+
